@@ -34,7 +34,7 @@ The **AI Cooking Assistant** is a real-time, voice-to-voice, RAG-based applicati
    ```sh
    pip install -r requirements.txt
    ```
-
+4. **Update backend/.env file with API Keys for GOOGLE_API_KEY and PINECONE_API_KEY
 
 ## Usage
 Run the Streamlit app with:
